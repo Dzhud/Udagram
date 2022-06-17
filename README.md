@@ -23,7 +23,7 @@ Create the CloudFormation server stack like so:
 `aws cloudformation create-stack --stack-name someStackName --template-body file://udagramproject-server.yml --parameters file://udagramproject-parameters.json`
 
 ## Server output
-The Load Balancer's IP Address
+The server is accessible through this Address:
 http://Udagr-WebAp-1XBYSMVLPERP4-771550344.us-east-1.elb.amazonaws.com
 #
 ![CloudFormation for Udagram](Diagram.png)
