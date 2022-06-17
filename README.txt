@@ -1,1 +1,1 @@
-This CloudFormation template deploys a High-Availability Web App.
+## This CloudFormation template deploys a High-Availability Web App.
